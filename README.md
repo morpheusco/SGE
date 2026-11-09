@@ -1,4 +1,4 @@
-﻿# Sistema de Gestión de Estudiantes (SGE) básico
+# Sistema de Gestión de Estudiantes (SGE) básico
 
 **Estudiante** — Edison Monsalve  
 **Materia** — ALGORITMOS Y PROGRAMACIÓN  
@@ -88,6 +88,9 @@ El menú principal se lee de arriba hacia abajo. Los diagramas de cada opción a
 | Rombo | Decisión, como comprobar si queda cupo |
 | Paralelogramo | Entrada o salida, como leer un ID o mostrar una ficha |
 | Rectángulo con doble borde | Operación que se explica en un diagrama aparte |
+
+> **Nota**:  He usado mermaid para integrar los diagramas, es más sencillo y fueron creados con ayuda de IA después de generarlos manualmente primero en el programa Dia, el código es válidado en mermaid live editor.
+
 
 ### Menú principal
 
